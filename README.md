@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+</p>
+<div align="center">
 
-You can use the [editor on GitHub](https://github.com/jingwen1031/eateveryone.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# EatKano
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_🦌 网页小游戏 🥛_
 
-### Markdown
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 简介
 
-# Header 1
-## Header 2
-### Header 3
+小游戏：吃掉小鹿乃
 
-- Bulleted
-- List
+浏览量超10,000,000+
 
-1. Numbered
-2. List
+线上版本:https://xingye.me/game/eatkano/index.php
 
-**Bold** and _Italic_ and `Code` text
+Github Page:https://arcxingye.github.io/EatKano/index.html
 
-[Link](url) and ![Image](src)
-```
+## 可选功能
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+简易排行榜(日/周/月)
 
-### Jekyll Themes
+需导入并配置数据库，信息填进conn.php
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jingwen1031/eateveryone.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+如启用务必更换密钥及添加一些安全防范代码
 
-### Support or Contact
+以及对index.js进行混淆加密压缩
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+不需要排行榜把PHP文件都扔掉即可
+
+## 其它事项
+
+点下star吧~
+
+欢迎修改和续写，需保留跳转此仓库的开源按钮
+
+如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行
