@@ -31,7 +31,7 @@
             <button type="button" class="btn btn-secondary btn-lg" onclick="replayBtn()">重来</button>
             <button type="button" class="btn btn-secondary btn-lg" onclick="goRank();">排行</button>
             <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://qm.qq.com/cgi-bin/qm/qr?k=vB8tRgAJZFamIlQULICwKgubrlHGfFj-&noverify=0'">二改作者</button>
-            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'">开源</button>
+            <button type="button" class="btn btn-secondary btn-lg" onclick="window.location.href='https://github.com/arcxingye/EatKano'">源代码</button>
         </div>
         </div>
     </div>
